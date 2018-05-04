@@ -1,0 +1,59 @@
+
+.col-md-7 {
+    background-color: white;
+    
+    margin-left: 15px;
+    border-style: ridge;
+}
+
+p {
+    margin: 10px;
+}
+
+.col-md-4 {
+    background-color: white;
+    float: right;
+    border-style: ridge;
+    padding-bottom: 30px;
+    margin-right: 10px;
+   
+}
+
+#connect {
+    margin-left: 40px;
+    padding-top: 20px;
+}
+
+img {
+    float: left;
+    margin-right: 10px;
+}
+
+h4 {
+    width: 80%;
+    border-bottom: ridge;
+    text-align: center;
+}
+
+
+footer {
+    text-align: center;
+    background-color: white;
+    margin-top: 10px;
+    padding: 20px;
+    margin-bottom: 10px;
+    border-style: ridge;
+}
+
+body {
+    width: 95%;
+}
+
+
+
+
+
+
+
+/* contact page*/
+
